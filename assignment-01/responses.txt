@@ -1,0 +1,8 @@
+How is the web different than the internet?
+Briefly describe how the internet works.
+What is a directory, and what is its relationship to files?
+Why is using a VCS beneficial?
+1. The Internet is what connects all computers and servers, where the Web is basically all the info that is stored on the servers.
+2. The Internet works through a series of cables that transfer data at high speeds. These cables stretch across the entire planet. Servers which hold data can be connected to these cables and ISP's connect clients to the cables as well. This networks all computers and servers that are connected to the Internet.
+3. A directory is basically a folder or a house for files. It keeps files organized.
+4. These are vector files which scale to whatever display a client is using. It can keep files small.
