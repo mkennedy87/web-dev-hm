@@ -1,1 +1,6 @@
 My Responses:
+
+1. A file splits up into packets, all packets pass through routers, and the routers sends packets though the best paths. Packets arrive at the computer that requested them. TCP judges whether or not everything has arrived. Then the file is assembled and displayed.
+2. An IP address is a unique number given to any individual device that can connect to the internet, or any website. A DNS connects your IP address to the websites IP address you are searching for.
+3. A cookie is information stored about how you used a website in order to speed up the processes as you continue to use the website.
+4. A URL is made up of the protocol, domain and path.
