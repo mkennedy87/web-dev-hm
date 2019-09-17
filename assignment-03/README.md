@@ -6,4 +6,4 @@ A browsers interprets the data from the host server and displays the content. Th
 
 The markup lanuage basically is all the dialouge that will appear on a webpage, and how it is presented. HTML is the markup language we are using for this assignment and is very popular.
 
-![My screenshot](./images/assignment-03-screenshot-a3.png)
+![My screenshot](./images/screenshot-a3.png)
