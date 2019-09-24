@@ -3,4 +3,4 @@ I went and checked out Kotaku.com at waybackmachine. I went all the way back to 
 I actually had the git module already from Creative Coding I. I kept it after the class because I knew it was going to be used again. I did have problems getting changes to show up though, and just as I'm typing this, I'm realizing it was because I hadn't put a file in the folder. So my frustration was definitely my fault.
 
 
-![Here is my magnificent screenshot](./images/robert-frost.jpg)
+![Here is my magnificent screenshot](./images/my-achievement.png)
