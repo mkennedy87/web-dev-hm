@@ -1,3 +1,5 @@
-How many main document <head> and <body> elements can a page have? How are these elements different, or what role do they play?
-Describe the difference between structural and semantic markup.
-Free Response: Summarize your work cycle for this assignment. image icon
+There are four main elements: document type, root element, head element and body element. The document type tells the browse's processor what type of document it is. The root element defines the elements for the page. The head element is where all the behind the scenes data about the site is placed. And the body is where all the text that will appear on the page is placed.
+
+Structural markup embeds the info about the structure of a document. It tells the site how headings, paragraphs, breaks, and lists should look. Semantic markup applies to the contents within each of those elements and is used for the emphasis or to give info for words or phrases.
+
+I had a hard time getting started, mainly because I didn't read the whole list and got overwhelmed. Once I started I just followed the list and it walked me through the whole assignment. Before I started going further in the list though, I started writing goofy dialouge simply because I like to make myself laugh. After that I started reading through the list and just continued being silly. Everything I was asked to do I just checked back on the course site. I did forget how to resize an image and eventually just googled it.
