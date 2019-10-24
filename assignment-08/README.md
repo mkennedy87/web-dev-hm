@@ -1,12 +1,3 @@
-For this assignment, think of a lesson you can teach me, such as a craft project, recipe, or educational pursuit. You will need written content (the directions) and 3 illustrations or images. You may source any materials with citation.
-
-Structure (or section) your pages with divs, considering classes and/or ids.
-Include structural HTML and semantic HTML.
-Include a table element.
-Include at least 1 list element.
-Include at least 3 full image elements image icon, with images optimized for the web. image icon
-Include an iframe element (such as a video, song, external site, or map).
-
-Briefly recap your experience learning HTML. What was old, new, interesting, or difficult to learn?
-Next module we begin CSS and expand on styling, which helps us "decorate" HTML. Is there anything you're anxious or excited to learn about in this new section?
-Free Response: Summarize your work cycle for this assignment. image icon
+1. I actually really enjoy it, this is my favorite class right now. It is the only one where I feel like I am truly learning how to do something cool. Comparing HTML to other coding I have done, it is much easier for me to understand. It feels very forgiving compared to P5.js
+2. I am excited just to keep moving forward in this class. Making webpages is something I've always wanted to do.
+3. For this assignment I watched the last three walkthrough videos and would click through the modules as well. Really, the hard part is deciding what to make the website about. I find that given too much freedom on an assignment overwhelms me and causes me to shut down. This usually leads me to turn in assignments late. Hopefully this will be my last late assignment as I am shifting this class to my number 1 priority now, as I obviously can't accuratly judge how long each web assignment will take me.
