@@ -8,7 +8,11 @@ body {
 }
 
 h1 {
+  font-family: blippo, fantasy;
+}
 
+img {
+  width: 500px
 }
 
 #sect1 {
@@ -23,10 +27,19 @@ p {
 
 }
 
-.square {
+#background {
+  width: 1000px;
+  opacity: 0.5;
+  position: absolute;
+  top: 10px;
+  left: 150px;
+  z-index: -1;
+}
+
+/*.square {
   width: 50%;
 
-}
+}*/
 
 /*  position: absolute;
   top: 50%;
