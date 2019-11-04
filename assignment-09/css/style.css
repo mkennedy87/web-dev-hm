@@ -1,0 +1,36 @@
+/* MY VERY FIRST STYLESHEET!!!!*/
+
+body {
+  background-color: rgb(0, 30, 80);
+  font-family: arial;
+  color: rgb(1, 139, 152);
+  text-align: center;
+}
+
+h1 {
+
+}
+
+#sect1 {
+  background-color: rgb(252, 104, 52);
+}
+
+#sect2 {
+  background-color: rgb( 250, 222, 175);
+}
+
+p {
+
+}
+
+.square {
+  width: 50%;
+
+}
+
+/*  position: absolute;
+  top: 50%;
+  left: 50%;
+       -ms-transform: translate(-50%, -50%);
+   -webkit-transform: translate(-50%, -50%);
+           transform: translate(-50%, -50%);*/
