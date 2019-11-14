@@ -1,13 +1,52 @@
 body {
   font-family: 'Quicksand', sans-serif;
+  padding: 5px;
   background-color: rgb(50, 50, 155);
   color: rgb(200, 100, 0);
+  line-height: .5em;
+
 }
 
-.text-bg {
+h1 {
+  font-family: 'Parisienne', cursive;
+}
+
+.text {
   background-color: gold;
+  padding: 20px;
+  line-height: 1.2em;
+  font-size: 1.25em;
+  text-align: center;
 }
 
 .button {
-  
+
+}
+
+p::first-letter {
+  font-family: 'Parisienne', cursive;
+  font-size: 2em;
+  color: rgb(150, 150, 255);
+  font-weight: 700;
+}
+
+a {
+  background-color: white;
+  color: rgb(155, 0, 0);
+  padding: 5px;
+}
+
+a:hover {
+  background-color: rgb(155, 0, 0);
+  color: white;
+  padding: 5px
+
+}
+
+a:active {
+  background-color: green;
+}
+
+a:visited {
+  color: purple;
 }
