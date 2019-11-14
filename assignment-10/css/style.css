@@ -1,5 +1,13 @@
 body {
   font-family: 'Quicksand', sans-serif;
   background-color: rgb(50, 50, 155);
-  color: gold;
+  color: rgb(200, 100, 0);
+}
+
+.text-bg {
+  background-color: gold;
+}
+
+.button {
+  
 }
