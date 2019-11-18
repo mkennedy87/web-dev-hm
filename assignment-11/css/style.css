@@ -11,8 +11,19 @@ body {
   width: 75px;
 }
 
+.title {
+  color: white;
+  padding: 0em 2em;
+  font-size: 3em;
+
+}
+
 .float {
   float: left;
+}
+
+.float-right {
+  float: right;
 }
 
 .play-nice{
