@@ -1,0 +1,54 @@
+body {
+  height: 2160px;
+  background-color: lightblue;
+  font-family: arial;
+  font-size: 1.5em;
+}
+
+.play-nice{
+
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  background-color: rgb(50, 50, 150);
+  height: 4em;
+  width: 100%;
+}
+
+.menu-item {
+  display: inline-block;
+  margin: 1em .2em;
+  background-color: rgb(50, 50, 150);
+  max-width: 6em;
+  text-align: center;
+  padding: 0.5em 1em:
+}
+
+.menu-item a {
+  color: white;
+  text-decoration: none;
+}
+
+.menu-item:hover {
+  background-color: green;
+}
+
+.dropdown {
+
+}
+
+.dropdown-content {
+
+}
+
+.nice-big-border {
+  background-color: yellow;
+  width: 75%;
+  padding: 2em;
+  margin: auto;
+  border-width: .25em;
+  border-style: solid;
+  border-color: darkred;
+}
