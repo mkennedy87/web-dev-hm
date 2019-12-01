@@ -1,0 +1,12 @@
+* {
+font-family: arial;
+}
+
+.site-links {
+  background-color: #000;
+  color: #fff;
+}
+
+a .site-links {
+  color: #fff;
+}
