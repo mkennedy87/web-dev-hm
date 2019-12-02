@@ -8,8 +8,7 @@ body {
 }
 
 menu {
-  margin: 0;
-  padding: 0;
+
 }
 
 h1 {
@@ -18,8 +17,8 @@ h1 {
 
 .navigation {
   background-color: #000;
-  text-align: right;
-  margin: 0px auto;
+  margin: 0;
+  padding: 0;
 }
 
 .site-links {
@@ -27,6 +26,8 @@ h1 {
 }
 
 .site-links a{
+  text-align: left;
+  text-decoration: none;
   background-color: #000;
   color: #fff;
   text-align: center;
@@ -49,7 +50,13 @@ h1 {
 }
 
 .social-links {
-color: #fff;
+  text-align: right;
+  color: #fff;
+}
+
+img {
+  width: 400px;
+  height: auto;
 }
 /* .attribute-icons {
   color: blue;
