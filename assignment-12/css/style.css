@@ -8,6 +8,8 @@ body {
 }
 
 menu {
+  margin: 0;
+  padding: 0;
 
 }
 
@@ -17,8 +19,6 @@ h1 {
 
 .navigation {
   background-color: #000;
-  margin: 0;
-  padding: 0;
 }
 
 .site-links {
@@ -50,13 +50,20 @@ h1 {
 }
 
 .social-links {
-  text-align: right;
+  padding; .5em;
+  text-align: center;
   color: #fff;
+}
+
+.social-items {
+  width: 40px;
+  height: auto;
 }
 
 img {
   width: 400px;
   height: auto;
+  padding: 2em;
 }
 
 .forms {
