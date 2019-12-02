@@ -1,9 +1,19 @@
 * {
-font-family: arial;
+font-family: 'Open Sans', sans-serif;
 }
 
 body {
+  font-size: 1.125em;
 
+}
+
+menu {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
 }
 
 .navigation {
@@ -39,7 +49,7 @@ body {
 }
 
 .social-links {
-color: #000;
+color: #fff;
 }
 /* .attribute-icons {
   color: blue;
