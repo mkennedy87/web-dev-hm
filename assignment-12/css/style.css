@@ -2,13 +2,14 @@
 font-family: arial;
 }
 
-.site-links {
+.site-links a{
   background-color: #000;
   color: #fff;
   text-align: center;
   padding: .5em 1em;
 }
 
-a, .site-links {
-  color: #fff;
-}
+
+/* .attribute-icons {
+  color: blue;
+} */
