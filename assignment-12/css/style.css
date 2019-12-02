@@ -5,8 +5,10 @@ font-family: arial;
 .site-links {
   background-color: #000;
   color: #fff;
+  text-align: center;
+  padding: .5em 1em;
 }
 
-a .site-links {
+a, .site-links {
   color: #fff;
 }
