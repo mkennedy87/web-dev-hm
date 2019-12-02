@@ -2,14 +2,45 @@
 font-family: arial;
 }
 
+body {
+
+}
+
+.navigation {
+  background-color: #000;
+  text-align: right;
+  margin: 0px auto;
+}
+
+.site-links {
+
+}
+
 .site-links a{
   background-color: #000;
   color: #fff;
   text-align: center;
   padding: .5em 1em;
+  display: inline-block;
 }
 
+.attribute-icons {
+  text-align: center;
+}
 
+.stuff {
+  margin-left: 20%;
+  margin-right: 20%;
+  max-width: 2000px;
+}
+
+.footer {
+  margin-top: 3em;
+}
+
+.social-links {
+
+}
 /* .attribute-icons {
   color: blue;
 } */
