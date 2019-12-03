@@ -69,6 +69,14 @@ img {
 .forms {
   Margin: 0em 3em;
 }
+
+.nav-style:hover {
+  background-color: #999
+}
+
+p {
+  text-align: center;
+}
 /* .attribute-icons {
   color: blue;
 } */
