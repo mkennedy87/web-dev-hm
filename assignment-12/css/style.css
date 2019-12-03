@@ -4,7 +4,6 @@ font-family: 'Open Sans', sans-serif;
 
 body {
   font-size: 1.125em;
-
 }
 
 menu {
@@ -66,6 +65,10 @@ img {
   padding: 2em;
 }
 
+.big-pic {
+  margin: 0 0 0 10%;
+}
+
 .forms {
   Margin: 0em 3em;
 }
@@ -76,6 +79,10 @@ img {
 
 p {
   text-align: center;
+}
+
+.last-page {
+  margin: 20em 0;
 }
 /* .attribute-icons {
   color: blue;
