@@ -1,8 +1,6 @@
 <!--
-In this nav bar, create a dropdown menu with links to 3+ related outside sites.
 In your style.css, utilize positioning properties on your elements to create layout.
 Utilize color properties on your elements.
-Add pseduo-classes to your nav bar to make it interactive.
 -->
 
 
@@ -31,14 +29,22 @@ Add pseduo-classes to your nav bar to make it interactive.
     <menu>
       <div class="navigation">
 
-        <div class="site-links">
+        <div id="site-links">
 
           <a href=index.html class="nav-style">Home</a>
           <a href="about.html" class="nav-style">About</a>
           <a href="contact.html" class="nav-style">Contact</a>
           <a href="services.html" class="nav-style">Services</a>
 
-          <a href="#" class="nav-style">Dropdown</a>
+          <div class="dropdown">
+            <a href="#" id="dropdown-group">Links</a>
+            <div class="dropdown-content">
+              <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="dropdown-item">Relationships</a>
+              <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="dropdown-item">Good Music</a>
+              <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" class="dropdown-item">Life Advice</a>
+            </div>
+          </div
+
         </div>
 
       </div>

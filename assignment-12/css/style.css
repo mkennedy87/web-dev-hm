@@ -21,11 +21,7 @@ h1 {
   background-color: #000;
 }
 
-.site-links {
-
-}
-
-.site-links a{
+#site-links a{
   text-align: left;
   text-decoration: none;
   background-color: #000;
@@ -33,6 +29,36 @@ h1 {
   text-align: center;
   padding: .5em 1em;
   display: inline-block;
+}
+
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+
+}
+
+#site-links .dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 5;
+}
+
+#site-links :hover .dropdown-content {
+
+}
+#site-links .dropdown-item {
+  width: 6em;
+  padding: .5em 1em;
+  text-align: center;
+  display: block;
+}
+
+#site-links .dropdown-item:hover {
+  background-color: #999;
+}
+
+#site-links .dropdown:hover .dropdown-content {
+  display: block;
 }
 
 .attribute-icons {
@@ -74,7 +100,7 @@ img {
   Margin: 0em 3em;
 }
 
-.nav-style:hover {
+#site-links .nav-style:hover {
   background-color: #999
 }
 
