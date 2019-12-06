@@ -1,0 +1,116 @@
+* {
+font-family: 'Open Sans', sans-serif;
+}
+
+body {
+  font-size: 1.125em;
+}
+
+menu {
+  width: 100%;
+  position: fixed;
+  margin-top: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Libre Baskerville', serif;
+}
+
+.navigation {
+  background-color: #000;
+}
+
+#site-links a{
+  text-align: left;
+  text-decoration: none;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: .5em 1em;
+  display: inline-block;
+}
+
+#site-links .dropdown {
+  display: inline-block;
+  width: 6em;
+
+}
+
+#site-links .dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 5;
+}
+
+#site-links :hover .dropdown-content {
+
+}
+#site-links .dropdown-item {
+  width: 6em;
+  padding: .5em 1em;
+  text-align: center;
+  display: block;
+}
+
+#site-links .dropdown-item:hover {
+  background-color: #999;
+}
+
+#site-links .dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.attribute-icons {
+  text-align: center;
+}
+
+.stuff {
+  margin-left: 20%;
+  margin-right: 20%;
+  max-width: 2000px;
+}
+
+.footer {
+  margin-top: 3em;
+}
+
+.social-links {
+  padding; .5em;
+  text-align: center;
+  color: #fff;
+}
+
+.social-items {
+  width: 40px;
+  height: auto;
+}
+
+img {
+  width: 400px;
+  height: auto;
+  padding: 2em;
+}
+
+.big-pic {
+  margin: 0 0 0 10%;
+}
+
+.forms {
+  Margin: 0em 3em;
+}
+
+#site-links .nav-style:hover {
+  background-color: #999
+}
+
+p {
+  text-align: center;
+}
+
+.last-page {
+  margin: 20em 0;
+}
+/* .attribute-icons {
+  color: blue;
+} */
