@@ -18,13 +18,13 @@ h1 {
 }
 
 .navigation {
-  background-color: #000;
+  background-color: rgb(255, 115, 30);
 }
 
 #site-links a{
   text-align: left;
   text-decoration: none;
-  background-color: #000;
+  background-color: rgb(255, 115, 30);
   color: #fff;
   text-align: center;
   padding: .5em 1em;
@@ -54,7 +54,8 @@ h1 {
 }
 
 #site-links .dropdown-item:hover {
-  background-color: #999;
+  background-color: rgb(255, 255, 150);
+  color: rgb(255, 115, 30);
 }
 
 #site-links .dropdown:hover .dropdown-content {
@@ -101,7 +102,8 @@ img {
 }
 
 #site-links .nav-style:hover {
-  background-color: #999
+  background-color: rgb(255, 255, 150);
+  color: rgb(255, 115, 30);
 }
 
 p {
