@@ -13,11 +13,6 @@ menu {
   padding: 0;
 }
 
-#logo-style {
-  color: #fff;
-  text-align: center;
-  display: inline;
-}
 
 h1 {
   font-family: 'Libre Baskerville', serif;
@@ -131,7 +126,15 @@ p {
 #logo-size {
   width: 150px;
   height: auto;
-  margin-left: 0;
+}
+
+.logo-style {
+  color: #fff;
+  display: inline;
+}
+#logo-pos {
+  display: inline-block;
+
 }
 
 /* .attribute-icons {
