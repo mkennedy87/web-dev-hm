@@ -13,6 +13,12 @@ menu {
   padding: 0;
 }
 
+#logo-style {
+  color: #fff;
+  text-align: center;
+  display: inline;
+}
+
 h1 {
   font-family: 'Libre Baskerville', serif;
 }
@@ -22,7 +28,7 @@ h1 {
 }
 
 #site-links a{
-  text-align: left;
+
   text-decoration: none;
   background-color: rgb(255, 115, 30);
   color: #fff;
@@ -62,6 +68,10 @@ h1 {
   display: block;
 }
 
+#page-header {
+  padding: 15em 1em 1em 0em;
+}
+
 .attribute-icons {
   text-align: center;
 }
@@ -98,7 +108,7 @@ img {
 }
 
 .forms {
-  Margin: 0em 3em;
+  padding: 10em 3em;
 }
 
 #site-links .nav-style:hover {
@@ -113,6 +123,17 @@ p {
 .last-page {
   margin: 20em 0;
 }
+
+#adjustment {
+
+}
+
+#logo-size {
+  width: 150px;
+  height: auto;
+  margin-left: 0;
+}
+
 /* .attribute-icons {
   color: blue;
 } */
